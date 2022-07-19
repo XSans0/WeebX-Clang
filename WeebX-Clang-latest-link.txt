@@ -1,1 +1,1 @@
-https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-15.0.0-20220718-release/WeebX-Clang-15.0.0-20220718.tar.gz
+https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-15.0.0-20220719-release/WeebX-Clang-15.0.0-20220719.tar.gz
