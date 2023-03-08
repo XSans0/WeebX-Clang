@@ -8,8 +8,8 @@
 # How to use?
 * Example using the latest clang
 ```
-wget "$(curl -s https://raw.githubusercontent.com/XSans0/WeebX-Clang/main/main/link.txt) -O "weebx-clang.tar.gz"
-mkdir clang && tar -xf weebx-clang -C clang && rm -rf weebx-clang.tar.gz
+wget $(curl -s https://raw.githubusercontent.com/XSans0/WeebX-Clang/main/main/link.txt) -O "weebx-clang.tar.gz"
+rm -rf clang && mkdir clang && tar -xvf weebx-clang.tar.gz -C clang && rm -rf weebx-clang.tar.gz
 ```
 
 # Another WeebX Clang repository
