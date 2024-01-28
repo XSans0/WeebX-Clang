@@ -1,7 +1,9 @@
-# What's new? October 2023
-* Build Clang-17.x
-* Stop Build Clang-16.x
-* Cleanup repository. Delete All Clang-16.x release, Except Clang-16.0.6
+# What's new? January 2024
+* Rewrite build scripts
+* Update binutils to 2.41
+* Build Clang-18.x
+* Stop Build Clang-17.x
+* Cleanup github release, Delete Clang-18.0.0git, Clang-18.0.0
 
 # How to use?
 * Example using the latest clang
