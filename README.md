@@ -1,6 +1,6 @@
 # What's new? January 2024
 * Rewrite build scripts
-* Update binutils to 2.41
+* Update binutils to 2.42
 * Build Clang-18.x
 * Stop Build Clang-17.x
 * Cleanup github release, Delete Clang-18.0.0git, Clang-18.0.0
