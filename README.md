@@ -1,9 +1,6 @@
-# What's new? January 2024
-* Rewrite build scripts
-* Update binutils to 2.42
-* Build Clang-18.x
-* Stop Build Clang-17.x
-* Cleanup github release, Delete Clang-18.0.0git, Clang-18.0.0
+# What's new? February 2024
+* Binutils: Specify O3
+* Fixed issue [#2](https://github.com/XSans0/WeebX-Clang/issues/2)
 
 # How to use?
 * Example using the latest clang
