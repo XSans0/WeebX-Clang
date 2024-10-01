@@ -1,1 +1,1 @@
-https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-19.1.0-release/WeebX-Clang-19.1.0.tar.gz
+https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-19.1.2-release/WeebX-Clang-19.1.2.tar.gz
