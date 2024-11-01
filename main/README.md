@@ -1,5 +1,5 @@
 # Quick Info
-* Build Date : 2024-11-01
+* Build Date : 2024-11-02
 * Clang Version : 20.0.0git
 * Binutils Version : 2.43.0
-* Compiled Based : https://github.com/llvm/llvm-project/commit/ca9f5b6c
+* Compiled Based : https://github.com/llvm/llvm-project/commit/8e61aaa0
